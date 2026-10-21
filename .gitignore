@@ -1,0 +1,8 @@
+# Build artifacts
+dist/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
